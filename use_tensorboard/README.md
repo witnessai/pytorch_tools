@@ -31,6 +31,4 @@ for tag, images in info.items():
 ```
 
 * **watch tensorboard**
-```
 input `tensorboard --logdir='./logs' --port=8112` in the current directory, and input `your_ip:8112` in your browser to get into tensorboard.
-```
